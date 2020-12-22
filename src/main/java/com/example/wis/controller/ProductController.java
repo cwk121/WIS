@@ -1,4 +1,4 @@
-package com.example.wis.comtroller;
+package com.example.wis.controller;
 
 import com.example.wis.model.Product;
 import com.example.wis.repository.ProductRepository;

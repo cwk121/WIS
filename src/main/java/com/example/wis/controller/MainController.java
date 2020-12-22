@@ -1,4 +1,4 @@
-package com.example.wis.comtroller;
+package com.example.wis.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

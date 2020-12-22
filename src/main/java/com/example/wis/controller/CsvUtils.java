@@ -1,4 +1,4 @@
-package com.example.wis.comtroller;
+package com.example.wis.controller;
 
 import com.fasterxml.jackson.databind.ObjectReader;
 import com.fasterxml.jackson.dataformat.csv.CsvMapper;
