@@ -39,4 +39,27 @@ The `product_large.csv` contains ~30000 rows of data.
   - Upload product csv
   - Upload inventory csv
   
-## Snapshots
+## Screenshots
+Product page
+![Product page](/screenshots/product.png)
+Inventory page
+![Inventory page](/screenshots/inventory.png)
+Upload page
+![Upload page](/screenshots/upload.png)
+
+## Daily task
+#### Day 1
+- Study Spring Boot (file structure, database connection, different annotations, etc...)
+- Design data structure and system logic
+- Implement UI using JPA
+- All required functions are basically done
+#### Day 2
+- Move the searching function from frontend to backend considering the scalability and bandwidth problems
+- Implement pagination (100 rows/page)
+- Refactor code with simpler or better practice
+- Improve functionalities
+- Improve UI
+- Write unit test with @SpringBootTest and @DataJpaTest
+#### Day 3
+- More testing
+- Complete the README.md
