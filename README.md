@@ -1,4 +1,4 @@
-# WIS
+# Warehouse Inventory System
 Warehouse Inventory System (Spring Boot demo project)  
 
 ## Getting Started
