@@ -22,7 +22,12 @@ cd WIS
 ```
 http://localhost:8080/
 ```
-
+6. (Optional) Build the Application and Run
+```bash
+./mvnw clean package
+cd target
+java -jar wis-0.0.1-SNAPSHOT.jar
+```
 ## Datasets
 Some datasets in csv format is placed in `dataset` folder, you can upload these csv files in the upload page  
 The `product_large.csv` contains ~30000 rows of data.
