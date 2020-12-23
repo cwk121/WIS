@@ -11,8 +11,8 @@ mysql> grant all on wis.* to 'wis'@'%'; -- Gives all privileges to the new user 
 ```
 3. Clone this Repository
 ```bash
-git clone https://github.com/cwk121/WIS
-cd WIS
+git clone https://github.com/cwk121/wis
+cd wis
 ```
 4. Run the Application 
 ```bash
