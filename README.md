@@ -22,7 +22,7 @@ cd WIS
 ```
 http://localhost:8080/
 ```
-6. (Optional) Build the Application and Run
+#### Build the Application and Run
 ```bash
 ./mvnw clean package
 cd target
